@@ -39,3 +39,6 @@ coverage.xml
 .env.*
 !.env.example
 !.env.sample
+
+data/
+.ipynb_checkpoints/
